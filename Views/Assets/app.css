@@ -1,0 +1,25 @@
+body {
+	font-size: 13px;
+}
+button { 
+	cursor: pointer !important;
+}
+
+.btn-link:hover {
+	text-decoration: none;
+}
+
+button.l, input.l {
+	width: 32%
+}
+
+.login {
+	min-width: 240px !important; 
+}
+
+.floating {
+	border-radius: 50%;
+	position: fixed;
+	right: 20px;
+	bottom: 30px; 
+}
